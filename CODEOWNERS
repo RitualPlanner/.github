@@ -1,0 +1,14 @@
+# Default owner
+* @parmesh-bhatt
+
+# Documentation
+*.md @parmesh-bhatt
+
+# GitHub workflows
+.github/ @parmesh-bhatt
+
+# API
+apps/api/ @parmesh-bhatt
+
+# Web
+apps/web/ @parmesh-bhatt
